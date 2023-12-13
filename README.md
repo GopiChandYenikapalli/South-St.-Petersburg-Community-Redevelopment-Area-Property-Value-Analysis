@@ -1,5 +1,4 @@
 # South St.Petersburg Community Redevelopment Area Property Value Analysis
-
 ### Background
 The South St. Petersburg Community Redevelopment Area (CRA) was established in 2015 to promote reinvestment in housing and neighborhoods, commercial corridors, business development, and education and workforce development in the City of St. Petersburg.
 The City seeks to understand historical trends related to property values since the adoption of the South St. Petersburg Community Redevelopment Plan. The purpose of this project is for students to analyze
@@ -16,3 +15,5 @@ Assessed and reported on the total taxable property values for distinct zones (n
 
 ## Strategic Insight and Decision Support:
 Provided critical insights through a detailed property appraiser data analysis in 2022, comparing total taxable property values across different regions of the South St. Petersburg CRA. This analysis was further refined by controlling for variables such as the number of properties, acreage, and land square footage, thereby offering nuanced insights to support strategic planning and investment decisions by city officials and stakeholders.
+
+https://public.tableau.com/views/St_PetersburgCommunityRedevelopmentAreaPropertyValueAnalysis/Q_1_1?:language=en-US&:display_count=n&:origin=viz_share_link
